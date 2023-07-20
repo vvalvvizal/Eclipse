@@ -1,0 +1,98 @@
+[08-Dec-2022 03:35:41 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_bd23f1478708417a827e8b9959083e12, O_RDWR) failed: No such file or directory (2) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 03:35:41 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 12:35:41 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in D:\xampp\htdocs\dbconfig.php:3
+Stack trace:
+#0 D:\xampp\htdocs\index.php(9): require_once()
+#1 {main}
+  thrown in D:\xampp\htdocs\dbconfig.php on line 3
+[08-Dec-2022 03:35:42 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_bd23f1478708417a827e8b9959083e12, O_RDWR) failed: No such file or directory (2) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 03:35:42 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 12:35:42 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in D:\xampp\htdocs\dbconfig.php:3
+Stack trace:
+#0 D:\xampp\htdocs\index.php(9): require_once()
+#1 {main}
+  thrown in D:\xampp\htdocs\dbconfig.php on line 3
+[08-Dec-2022 03:36:04 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_bd23f1478708417a827e8b9959083e12, O_RDWR) failed: No such file or directory (2) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 03:36:04 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 12:36:04 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in D:\xampp\htdocs\dbconfig.php:3
+Stack trace:
+#0 D:\xampp\htdocs\index.php(9): require_once()
+#1 {main}
+  thrown in D:\xampp\htdocs\dbconfig.php on line 3
+[08-Dec-2022 03:36:04 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_01ng066kiudsum754378q8i5ul, O_RDWR) failed: No such file or directory (2) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 03:36:04 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 12:36:04 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in D:\xampp\htdocs\dbconfig.php:3
+Stack trace:
+#0 D:\xampp\htdocs\index.php(9): require_once()
+#1 {main}
+  thrown in D:\xampp\htdocs\dbconfig.php on line 3
+[08-Dec-2022 03:36:05 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_bd23f1478708417a827e8b9959083e12, O_RDWR) failed: No such file or directory (2) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 03:36:05 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 12:36:05 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in D:\xampp\htdocs\dbconfig.php:3
+Stack trace:
+#0 D:\xampp\htdocs\index.php(9): require_once()
+#1 {main}
+  thrown in D:\xampp\htdocs\dbconfig.php on line 3
+[08-Dec-2022 03:36:06 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_01ng066kiudsum754378q8i5ul, O_RDWR) failed: No such file or directory (2) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 03:36:06 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 12:36:06 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in D:\xampp\htdocs\dbconfig.php:3
+Stack trace:
+#0 D:\xampp\htdocs\index.php(9): require_once()
+#1 {main}
+  thrown in D:\xampp\htdocs\dbconfig.php on line 3
+[08-Dec-2022 03:36:07 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_bd23f1478708417a827e8b9959083e12, O_RDWR) failed: No such file or directory (2) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 03:36:07 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 12:36:07 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in D:\xampp\htdocs\dbconfig.php:3
+Stack trace:
+#0 D:\xampp\htdocs\index.php(9): require_once()
+#1 {main}
+  thrown in D:\xampp\htdocs\dbconfig.php on line 3
+[08-Dec-2022 03:36:31 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_01ng066kiudsum754378q8i5ul, O_RDWR) failed: No such file or directory (2) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 03:36:31 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 12:36:31 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in D:\xampp\htdocs\dbconfig.php:3
+Stack trace:
+#0 D:\xampp\htdocs\index.php(9): require_once()
+#1 {main}
+  thrown in D:\xampp\htdocs\dbconfig.php on line 3
+[08-Dec-2022 03:36:33 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_bd23f1478708417a827e8b9959083e12, O_RDWR) failed: No such file or directory (2) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 03:36:33 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 12:36:33 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in D:\xampp\htdocs\dbconfig.php:3
+Stack trace:
+#0 D:\xampp\htdocs\index.php(9): require_once()
+#1 {main}
+  thrown in D:\xampp\htdocs\dbconfig.php on line 3
+[08-Dec-2022 03:36:34 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_01ng066kiudsum754378q8i5ul, O_RDWR) failed: No such file or directory (2) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 03:36:34 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 12:36:34 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in D:\xampp\htdocs\dbconfig.php:3
+Stack trace:
+#0 D:\xampp\htdocs\index.php(9): require_once()
+#1 {main}
+  thrown in D:\xampp\htdocs\dbconfig.php on line 3
+[08-Dec-2022 03:36:34 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_01ng066kiudsum754378q8i5ul, O_RDWR) failed: No such file or directory (2) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 03:36:34 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 12:36:34 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in D:\xampp\htdocs\dbconfig.php:3
+Stack trace:
+#0 D:\xampp\htdocs\index.php(9): require_once()
+#1 {main}
+  thrown in D:\xampp\htdocs\dbconfig.php on line 3
+[08-Dec-2022 03:36:34 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_01ng066kiudsum754378q8i5ul, O_RDWR) failed: No such file or directory (2) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 03:36:34 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 12:36:34 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in D:\xampp\htdocs\dbconfig.php:3
+Stack trace:
+#0 D:\xampp\htdocs\index.php(9): require_once()
+#1 {main}
+  thrown in D:\xampp\htdocs\dbconfig.php on line 3
+[08-Dec-2022 03:36:35 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_01ng066kiudsum754378q8i5ul, O_RDWR) failed: No such file or directory (2) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 03:36:35 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 12:36:35 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in D:\xampp\htdocs\dbconfig.php:3
+Stack trace:
+#0 D:\xampp\htdocs\index.php(9): require_once()
+#1 {main}
+  thrown in D:\xampp\htdocs\dbconfig.php on line 3
+[08-Dec-2022 03:36:48 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72\sess_01ng066kiudsum754378q8i5ul, O_RDWR) failed: No such file or directory (2) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 03:36:48 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in D:\xampp\htdocs\index.php on line 4
+[08-Dec-2022 12:36:48 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in D:\xampp\htdocs\dbconfig.php:3
+Stack trace:
+#0 D:\xampp\htdocs\index.php(9): require_once()
+#1 {main}
+  thrown in D:\xampp\htdocs\dbconfig.php on line 3

@@ -1,0 +1,37 @@
+td {
+  text-align: center;
+}
+.button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 10vh;
+}
+.button1 {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  position: absolute;
+  left: 737px;
+}
+.input {
+  width: 100px;
+  height: 55px;
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.input2 {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid gainsboro;
+}
+.input3 {
+  border: 1px solid gainsboro;
+  border-radius: 5px;
+  width: 820px;
+}

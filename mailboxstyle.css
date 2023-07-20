@@ -1,0 +1,83 @@
+/*이 다음 영역은 mail함에 관한 영역*/
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+div.menu_display{
+    margin: 0;
+    display: table;
+    position: absolute;
+    width: 16.66%;
+    height: 100%;
+    border-right: 5px solid #c7bcbc;
+    background-color: gainsboro;
+}
+div.titlebar{
+    display: table;
+    position: relative;
+    padding: 0px;
+    border-bottom: 2px solid rgba(255, 233, 233, 0.521);
+    width: 100%;
+    height: 50px;
+    background-color: rgb(138, 138, 138);
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger; 
+    line-height: 50px;  
+}
+li{
+    border-bottom: 1px solid #c7bcbc;
+    list-style-type: none;
+    height: 30px;
+    background-color: gainsboro;
+    text-align: center;
+    font-weight: bolder;
+    padding: 10px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+}
+#mymailpage{
+    display: none;
+    position: absolute;
+    padding-top: 20px;
+    left: 20%;
+    width: 100%;
+    height: 100%;
+}
+#sendmailpage{
+    display: none;
+    position: absolute;
+    padding-top: 20px;
+    left: 20%;
+    width: 100%;
+    height: 100%;
+}
+.mailinfo{
+    border: 1px solid #c7bcbc;
+    padding: 0px;
+    width: 75%;
+    height: 500px;
+}
+.mailtitle{
+    border: 1px solid #c7bcbc;
+    padding: 5px;
+    text-align: center;
+    border-top-right-radius: 20px;
+    border-bottom: 0;
+    margin-bottom: 0;
+    width: 10%;
+}
