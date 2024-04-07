@@ -1,0 +1,4 @@
+/* .gitattributes */
+
+* linguist-vendored
+*.php linguist-vendored=false
